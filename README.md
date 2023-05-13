@@ -1,4 +1,4 @@
-#Random NFT Generator
+# Random NFT Generator
 This project randomly generates NFTs with phrases on the ethereum goerli test network. It was built using buildspace and you can find more resources from them at https://buildspace.so/
 
 # 🪜 Installation
