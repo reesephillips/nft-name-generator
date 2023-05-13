@@ -1,6 +1,5 @@
-# ✅ [Completed] NFT Minter Tutorial
-
-This project contains the COMPLETED files for [Alchemy's NFT Minter tutorial](https://docs.alchemyapi.io/alchemy/tutorials/nft-minter), in which we teach you how to connect your smart contract to your React dApp project by building an NFT Minter using Metamask and Web3. It is best used as a reference.
+#Random NFT Generator
+This project randomly generates NFTs with phrases on the ethereum goerli test network. It was built using buildspace and you can find more resources from them at https://buildspace.so/
 
 # 🪜 Installation
 To use this minter, you'll need to do the following:
